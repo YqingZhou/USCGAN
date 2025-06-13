@@ -7,3 +7,4 @@ code details for submission to The Visual Computer
 
 ![image](https://github.com/YqingZhou/USCGAN/edit/main/model/uscgan.png)
 
+![Uploading uscgan.png…]()
