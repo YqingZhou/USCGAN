@@ -25,5 +25,5 @@ After using GAN to generate the images, first select 1,000 images from each cate
 then add the generated images to the original dataset for reclassification, and compare and analyze the 
 classification accuracy to verify whether data enhancement has improved. There are a total of 5 classification models, as shown in the classification folder
 
-## Citation
+## Citation 
 (https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/CycleGAN)
